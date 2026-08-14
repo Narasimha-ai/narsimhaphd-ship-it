@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Dr. Elaprolu Narsimha Rao 👋
 
-<!--
-**narsimhaphd-ship-it/narsimhaphd-ship-it** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Computational Physicist & Data Engineer** based in Italy. I specialize in processing, engineering, and modeling massive datasets using Python, SQL, and high-performance computing (HPC) environments.
 
-Here are some ideas to get you started:
+- 📊 **Current Focus:** Building enterprise data pipeline frameworks, data modeling, and business intelligence architectures via the Codebasics Tech Bootcamp.
+- ⚛️ **Background:** Former Postdoctoral Fellow at UNIMORE (Italy) [1] and Ph.D. in Computational Physics, managing terabytes of complex structured simulation data.
+- 🛠️ **Tech Stack:** Python (Pandas, NumPy), SQL (MySQL, PostgreSQL), Git, Linux/Bash, Power BI.
+- 💬 **Language:** English (Full Professional Proficiency)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Key Projects
+- **Enterprise Data Pipeline (Codebasics):** Architected end-to-end ETL scripts to process millions of rows of sales and financial data using SQL & Python.
+- **Supercomputing Pipelines (UNIMORE):** Engineered automated Python scripts to clean and process terabytes of multidimensional scientific data.
+
+### 📫 Connect with Me
+- **LinkedIn:** [://linkedin.com](https://www.://linkedin.com/)
+- **Email:** narsimha.phd@gmail.com
