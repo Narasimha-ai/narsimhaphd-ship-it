@@ -1,4 +1,4 @@
-# Hi, I'm Dr. Elaprolu Narsimha Rao 👋
+# Hi, I'm Dr. Narsimha Rao Elaprolu 👋
 
 I am a **Computational Physicist & Data Engineer** based in Italy. I specialize in processing, engineering, and modeling massive datasets using Python, SQL, and high-performance computing (HPC) environments.
 
