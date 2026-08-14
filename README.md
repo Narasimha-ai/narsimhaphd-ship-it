@@ -14,5 +14,6 @@ I am a **Computational Physicist & Data Engineer** based in Italy. I specialize 
 - **Supercomputing Pipelines (UNIMORE):** Engineered automated Python scripts to clean and process terabytes of multidimensional scientific data.
 
 ### 📫 Connect with Me
-- **LinkedIn:** [://linkedin.com]([https://www.://linkedin.com/](https://www.linkedin.com/in/dr-elaprolu-narsimha-rao-84095861/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B0akWdFHuSGKl2ZCFfH9%2FFw%3D%3D))
+- **LinkedIn:** [linkedin.com/in/dr-elaprolu-narsimha-rao](https://www.linkedin.com/in/dr-elaprolu-narsimha-rao-84095861/)
 - **Email:** narsimha.phd@gmail.com
+
