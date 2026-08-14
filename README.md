@@ -17,3 +17,4 @@ I am a **Computational Physicist & Data Engineer** based in Italy. I specialize 
 - **LinkedIn:** [linkedin.com/in/dr-elaprolu-narsimha-rao](https://www.linkedin.com/in/dr-elaprolu-narsimha-rao-84095861/)
 - **Email:** narsimha.phd@gmail.com
 
+- **Resume / CV:** [Download PDF Resume](https://github.com)
