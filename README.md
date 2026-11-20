@@ -1,10 +1,10 @@
 # Hi, I'm Dr. Narsimha Rao Elaprolu 👋
 
-I am a **Computational Physicist & Data Engineer** based in Italy. I specialize in processing, engineering, and modeling massive datasets using Python, SQL, and high-performance computing (HPC) environments.
-- 🎯 Target Roles: Junior Data Engineer | Python Data Developer | Analytics Engineer
+I am a Computational Physicist and aspiring Data Engineer based in Italy. My background combines scientific computing, workflow automation, high-performance computing (HPC), and large-scale simulation data analysis developed through academic research in computational materials science.
+- 🎯 Target Roles: Data Engineer | Scientific Software Engineer | Research Data Analyst | Big Data Engineer
 - 📊 **Current Focus:** Building enterprise data pipeline frameworks, data modeling, and business intelligence architectures via the Codebasics Tech Bootcamp.
-- ⚛️ **Background:** Former Postdoctoral Fellow at UNIMORE (Italy) [1] and Ph.D. in Computational Physics, managing terabytes of complex structured simulation data.
-- 🛠️ **Tech Stack:** Python (Pandas, NumPy), SQL (MySQL, PostgreSQL), Git, Linux/Bash, Power BI.
+- ⚛️ **Background:** Former Postdoctoral Researcher at the University of Modena and Reggio Emilia (Italy) with a PhD in Theoretical and Computational Physics. Experienced in scientific software development, workflow automation, and analysis of large simulation datasets in HPC environments.
+- 🛠️ **Tech Stack:** Python (Pandas, NumPy), SQL (MySQL, PostgreSQL), Git, Linux/Bash, Apache Spark, Power BI, Tableau, AWS Fundamentals.
 - 💬 **Language:** English (Full Professional Proficiency)
 
 
